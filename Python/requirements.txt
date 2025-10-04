@@ -5,5 +5,5 @@ python-dotenv
 requests
 numpy
 opencv-python
-pywt
+PyWavelets==1.6.0
 reedsolo
