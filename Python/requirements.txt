@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+web3
+python-dotenv
+requests
+numpy
+opencv-python
+pywt
+reedsolo
