@@ -1,0 +1,97 @@
+{
+    "@@locale": "ta",
+    "appTitle": "ஆதண்டிகைன்",
+    "loginTab": "உள்நுழைவு",
+    "signUpTab": "பதிவு",
+    "emailLabel": "மின்னஞ்சல்",
+    "passwordLabel": "கடவுச்சொல்",
+    "nameLabel": "பெயர்",
+    "ageLabel": "வயது",
+    "loginButton": "உள்நுழைவு",
+    "serverError": "சேவையகப் பிழை",
+    "signUpButton": "பதிவு",
+    "fieldRequired": "இந்த புலம் கட்டாயம்.",
+    "invalidEmail": "தயவுசெய்து சரியான மின்னஞ்சலை உள்ளிடவும்.",
+    "invalidAge": "தயவுசெய்து சரியான வயதை உள்ளிடவும்.",
+    "passwordLength": "கடவுச்சொல் குறைந்தபட்சம் 6 எழுத்துகள் இருக்க வேண்டும்.",
+    "welcome": "வரவேற்பு!",
+    "welcomeMessage": "ஆதண்டிகைன்க்கு வரவேற்கிறோம்! நம்பிக்கையுடன் பொருட்களை சரிபார்க்கவும்.",
+    "customerRole": "பொருளைச் சரிபார்க்கவும்",
+    "customerSubtitle": "பொருளின் நம்பகத்தன்மையைச் சரிபார்க்கவும்.",
+    "myProductsRole": "எனது பொருட்கள்",
+    "myProductsSubtitle": "நீங்கள் ஸ்கேன் செய்த பொருட்களைப் பார்க்கவும்.",
+    "verifyProductTitle": "பொருள் நம்பகத்தன்மையைச் சரிபார்க்கவும்",
+    "verifyProductMessage": "விவரங்களைச் சரிபார்க்க படத்தைத் தேர்ந்தெடுக்கவும்.",
+    "selectImageToVerifyButton": "சரிபார்க்க படத்தை தேர்ந்தெடுக்கவும்",
+    "authenticProductTitle": "✅ உண்மையான பொருள்",
+    "counterfeitProductTitle": "❌ போலி பொருள்!",
+    "counterfeitProductDetails": "இந்த பொருளின் படத்தில் சரியான ஹாஷ் இல்லை அல்லது ஹாஷ் பிளாக்செயினில் இல்லை.",
+    "verificationErrorTitle": "சரிபார்ப்புப் பிழை",
+    "productIDLabel": "பொருள் ஐடி",
+    "nameLabel": "பெயர்",
+    "expiryLabel": "காலாவதி தேதி",
+    "blockchainHashLabel": "பிளாக்செயின் ஹாஷ்",
+    "saveProductButton": "எனது பொருட்களில் சேமிக்கவும்",
+    "verifyAnotherButton": "மற்றொரு பொருளைச் சரிபார்க்கவும்",
+    "saveProductSuccess": "உங்கள் பொருட்களில் சேமிக்கப்பட்டது!",
+    "saveProductFailure": "பொருளை சேமிக்க முடியவில்லை",
+    "tryAgainButton": "மீண்டும் முயற்சிக்கவும்",
+    "myProductsPageTitle": "எனது பொருட்கள்",
+    "noProductsMessage": "நீங்கள் இன்னும் எந்த பொருட்களையும் ஸ்கேன் செய்யவில்லை.",
+    "expiredOn": "காலாவதியானது: {date}",
+    "@expiredOn": {
+        "placeholders": {
+            "date": {}
+        }
+    },
+    "expiresOn": "காலாவதியாகும்: {date}",
+    "@expiresOn": {
+        "placeholders": {
+            "date": {}
+        }
+    },
+    "deleteButton": "நீக்கு",
+    "productDeleted": "{productName} நீக்கப்பட்டது.",
+    "@productDeleted": {
+        "placeholders": {
+            "productName": {}
+        }
+    },
+    "productExpiringSoon": "பொருள் விரைவில் காலாவதியாகிறது",
+    "expiryNotificationBody": "உங்கள் பொருள் \"{productName}\" {expiryDate} அன்று காலாவதியாகும்.",
+    "@expiryNotificationBody": {
+        "placeholders": {
+            "productName": {},
+            "expiryDate": {}
+        }
+    },
+    "failedToFetchDetails": "பொருள் கண்டறியப்பட்டது, ஆனால் விவரங்களை எடுக்க முடியவில்லை.",
+    "noWatermarkFound": "நீர்முத்திரை கண்டறியப்படவில்லை அல்லது படம் மிகவும் சேதமடைந்துள்ளது.",
+    "@@noWatermarkFound": {
+        "description": "நீர்முத்திரை குறியீடு நீக்க முடியாதபோது ஏற்படும் பிழை செய்தி."
+    },
+    "watermarkInvalid": "நீர்முத்திரை செல்லாதது அல்லது பிளாக்செயினில் பொருள் கண்டறியப்படவில்லை.",
+    "@@watermarkInvalid": {
+        "description": "செல்லாத ஆனால் சரிபார்க்கப்படாத நீர்முத்திரைக்கான பிழை செய்தி."
+    },
+    "reportCounterfeitButton": "போலி தயாரிப்பைப் புகாரளிக்கவும்",
+    "reportCounterfeitSubtitle": "போலி அல்லது தரமற்ற தயாரிப்பைப் புகாரளிக்கவும்",
+    "reportProductTitle": "போலி தயாரிப்பைப் புகாரளிக்கவும்",
+    "tellUsMore": "மேலும் சொல்லுங்கள்",
+    "tellUsMoreDetails": "நீங்கள் ஏன் இந்தத் தயாரிப்பைப் புகாரளிக்கிறீர்கள் என்பது பற்றிய விவரங்களை வழங்கவும். இது பொருத்தமான நடவடிக்கை எடுக்க எங்களுக்கு உதவுகிறது.",
+    "reportDetailsLabel": "உங்கள் புகார் விவரங்கள்",
+    "reportDetailsHint": "எ.கா., பேக்கேஜிங் சேதமடைந்துள்ளது, QR குறியீடு படிக்க முடியாதது, தயாரிப்பு போலியானது போல் தோன்றியது போன்றவை.",
+    "submitReportButton": "புகாரை சமர்ப்பி",
+    "submittingReportButton": "சமர்ப்பிக்கிறது...",
+    "cancelButton": "ரத்துசெய்",
+    "reportSuccess": "புகார் வெற்றிகரமாக சமர்ப்பிக்கப்பட்டது.",
+    "reportFailure": "புகாரை சமர்ப்பிக்க முடியவில்லை.",
+    "mustLoginToReport": "ஒரு தயாரிப்பைப் புகாரளிக்க நீங்கள் உள்நுழைந்திருக்க வேண்டும்.",
+    "reportProductPageTitle": "தயாரிப்பு அறிக்கை",
+    "productNameLabel": "பொருள் பெயர்",
+    "batchNumberLabel": "தொகுதி எண்",
+    "qcStatusLabel": "தர கட்டுப்பாடு நிலை",
+    "overallStatusLabel": "ஒட்டுமொத்த நிலை",
+    "forgotPassword": "கடவுச்சொல்லை மறந்துவிட்டீர்களா?",
+    "emailRequiredForPasswordReset": "உங்கள் கடவுச்சொல்லை மீட்டமைக்க உங்கள் மின்னஞ்சலை உள்ளிடவும்."
+}

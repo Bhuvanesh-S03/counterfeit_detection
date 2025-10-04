@@ -1,0 +1,18 @@
+[
+  {
+    "productBatch": "BATCH001",
+    "PassFail": "PASS"
+  },
+  {
+    "productBatch": "BATCH001",
+    "PassFail": "FAIL"
+  },
+  {
+    "productBatch": "BATCH002",
+    "PassFail": "PASS"
+  },
+  {
+    "productBatch": "B43",
+    "PassFail": "PASS"
+  }
+]

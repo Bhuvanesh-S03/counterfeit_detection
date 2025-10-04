@@ -1,0 +1,96 @@
+{
+    "@@locale": "hi",
+    "appTitle": "ऑथेंटिचैन",
+    "loginTab": "लॉगिन",
+    "signUpTab": "साइन अप करें",
+    "emailLabel": "ईमेल",
+    "passwordLabel": "पासवर्ड",
+    "nameLabel": "नाम",
+    "ageLabel": "आयु",
+    "loginButton": "लॉगिन",
+    "signUpButton": "साइन अप करें",
+    "fieldRequired": "यह फ़ील्ड आवश्यक है।",
+    "invalidEmail": "कृपया एक वैध ईमेल दर्ज करें।",
+    "invalidAge": "कृपया एक वैध आयु दर्ज करें।",
+    "passwordLength": "पासवर्ड कम से कम 6 अक्षरों का होना चाहिए।",
+    "welcome": "स्वागत है!",
+    "welcomeMessage": "ऑथेंटिचैन में आपका स्वागत है! विश्वास के साथ उत्पादों को सत्यापित करें।",
+    "customerRole": "उत्पाद सत्यापित करें",
+    "customerSubtitle": "उत्पाद की प्रामाणिकता की जाँच करें।",
+    "myProductsRole": "मेरे उत्पाद",
+    "myProductsSubtitle": "अपने स्कैन किए गए आइटम देखें।",
+    "verifyProductTitle": "उत्पाद की प्रामाणिकता सत्यापित करें",
+    "verifyProductMessage": "विवरण की जांच करने के लिए उत्पाद छवि का चयन करें।",
+    "selectImageToVerifyButton": "सत्यापित करने के लिए उत्पाद छवि चुनें",
+    "authenticProductTitle": "✅ प्रामाणिक उत्पाद",
+    "counterfeitProductTitle": "❌ नकली उत्पाद!",
+    "counterfeitProductDetails": "इस उत्पाद की छवि में एक वैध हैश नहीं है या हैश ब्लॉकचेन पर नहीं है।",
+    "verificationErrorTitle": "सत्यापन त्रुटि",
+    "productIDLabel": "उत्पाद आईडी",
+    "expiryLabel": "समाप्ति तिथि",
+    "blockchainHashLabel": "ब्लॉकचेन हैश",
+    "saveProductButton": "मेरे उत्पादों में सहेजें",
+    "verifyAnotherButton": "एक और उत्पाद सत्यापित करें",
+    "saveProductSuccess": "आपके उत्पादों में सहेजा गया!",
+    "saveProductFailure": "उत्पाद सहेजने में विफल",
+    "tryAgainButton": "पुनः प्रयास करें",
+    "serverError": "सर्वर त्रुटि",
+    "myProductsPageTitle": "मेरे उत्पाद",
+    "noProductsMessage": "आपने अभी तक कोई उत्पाद स्कैन नहीं किया है।",
+    "expiredOn": "समाप्त: {date}",
+    "@expiredOn": {
+        "placeholders": {
+            "date": {}
+        }
+    },
+    "expiresOn": "समाप्त होगा: {date}",
+    "@expiresOn": {
+        "placeholders": {
+            "date": {}
+        }
+    },
+    "deleteButton": "मिटाएँ",
+    "productDeleted": "{productName} को हटा दिया गया है।",
+    "@productDeleted": {
+        "placeholders": {
+            "productName": {}
+        }
+    },
+    "productExpiringSoon": "उत्पाद जल्द ही समाप्त हो रहा है",
+    "expiryNotificationBody": "आपका उत्पाद \"{productName}\" {expiryDate} को समाप्त हो जाएगा।",
+    "@expiryNotificationBody": {
+        "placeholders": {
+            "productName": {},
+            "expiryDate": {}
+        }
+    },
+    "failedToFetchDetails": "उत्पाद मिला, लेकिन विवरण लाने में विफल.",
+    "noWatermarkFound": "कोई वॉटरमार्क नहीं मिला या छवि बहुत क्षतिग्रस्त है।",
+    "@@noWatermarkFound": {
+        "description": "त्रुटि संदेश जब वॉटरमार्क को डीकोड नहीं किया जा सकता है।"
+    },
+    "watermarkInvalid": "वॉटरमार्क अमान्य है या उत्पाद ब्लॉकचेन पर नहीं मिला है।",
+    "@@watermarkInvalid": {
+        "description": "एक वैध लेकिन असत्यापित वॉटरमार्क के लिए त्रुटि संदेश।"
+    },
+    "reportCounterfeitButton": "नकली उत्पाद की रिपोर्ट करें",
+    "reportCounterfeitSubtitle": "नकली या गैर-मानक उत्पाद की रिपोर्ट करें",
+    "reportProductTitle": "नकली उत्पाद की रिपोर्ट करें",
+    "tellUsMore": "हमें और बताएं",
+    "tellUsMoreDetails": "कृपया इस बारे में विवरण प्रदान करें कि आप इस उत्पाद की रिपोर्ट क्यों कर रहे हैं। इससे हमें उचित कार्रवाई करने में मदद मिलती है।",
+    "reportDetailsLabel": "आपकी रिपोर्ट के विवरण",
+    "reportDetailsHint": "उदा., पैकेजिंग क्षतिग्रस्त थी, क्यूआर कोड अपठनीय था, उत्पाद नकली लग रहा था, आदि।",
+    "submitReportButton": "रिपोर्ट सबमिट करें",
+    "submittingReportButton": "सबमिट हो रहा है...",
+    "cancelButton": "रद्द करें",
+    "reportSuccess": "रिपोर्ट सफलतापूर्वक सबमिट की गई।",
+    "reportFailure": "रिपोर्ट सबमिट करने में विफल।",
+    "mustLoginToReport": "आपको किसी उत्पाद की रिपोर्ट करने के लिए लॉग इन करना होगा।",
+    "reportProductPageTitle": "उत्पाद रिपोर्ट",
+    "productNameLabel": "उत्पाद का नाम",
+    "batchNumberLabel": "बैच संख्या",
+    "qcStatusLabel": "गुणवत्ता नियंत्रण स्थिति",
+    "overallStatusLabel": "कुल स्थिति",
+    "forgotPassword": "पासवर्ड भूल गए?",
+    "emailRequiredForPasswordReset": "अपना पासवर्ड रीसेट करने के लिए कृपया अपना ईमेल दर्ज करें।"
+}

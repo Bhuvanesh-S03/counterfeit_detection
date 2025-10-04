@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "354991474343",
+    "project_id": "drugauthentication",
+    "storage_bucket": "drugauthentication.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354991474343:android:fe836e6203b2230fcafd82",
+        "android_client_info": {
+          "package_name": "com.example.drug_authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0hKxdEmKpJNt_g3Tg280Ewk72VoCvVOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
