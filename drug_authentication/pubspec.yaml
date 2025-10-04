@@ -1,0 +1,58 @@
+name: drug_authentication
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.5 <4.0.0' # Updated for compatibility
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations: # Moved here from dev_dependencies
+    sdk: flutter
+  intl: ^0.19.0 # Downgraded to resolve version conflict
+  
+  cupertino_icons: ^1.0.8
+  http: ^1.4.0
+  firebase_core: ^4.0.0
+  image_picker: ^1.1.2
+  path_provider: ^2.1.5
+  gal: ^2.3.2
+  mime: ^2.0.0
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  flutter_local_notifications: ^19.4.0
+  timezone: ^0.10.1
+  flutter_slidable: ^4.0.0
+  firebase_auth: ^6.0.1
+  lottie: ^3.3.1
+  firebase_messaging: ^16.0.0
+  cloud_firestore: ^6.0.0
+
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  
+  build_runner: ^2.4.6
+  hive_generator: ^2.0.1
+  flutter_launcher_icons: ^0.14.4
+  flutter_lints: ^2.0.0 # This package was missing, adding it as it's a good practice
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/logo.png"
+
+flutter:
+  uses-material-design: true
+  generate: true # Added this line
+  assets:
+    - assets/logo.png
+  fonts:
+    - family: SF-Pro-Display
+      fonts:
+        - asset: assets/fonts/SF-Pro-Display-Regular.otf
+        - asset: assets/fonts/SF-Pro-Display-Bold.otf
+          weight: 700

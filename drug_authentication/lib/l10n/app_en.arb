@@ -1,0 +1,96 @@
+{
+  "@@locale": "en",
+  "appTitle": "AuthentiChain",
+  "loginTab": "Login",
+  "signUpTab": "Sign Up",
+  "emailLabel": "Email",
+  "passwordLabel": "Password",
+  "nameLabel": "Name",
+  "ageLabel": "Age",
+  "serverError": "Server error",
+  "loginButton": "Login",
+  "signUpButton": "Sign Up",
+  "fieldRequired": "This field is required.",
+  "invalidEmail": "Please enter a valid email.",
+  "forgotPassword": "Forgot Password?",
+  "emailRequiredForPasswordReset": "Please enter your email to reset your password.",
+  "invalidAge": "Please enter a valid age.",
+  "passwordLength": "Password must be at least 6 characters long.",
+  "welcome": "Welcome!",
+  "welcomeMessage": "Welcome to AuthentiChain! Verify products with confidence.",
+  "customerRole": "Verify Product",
+  "customerSubtitle": "Check product authenticity.",
+  "myProductsRole": "My Products",
+  "myProductsSubtitle": "View your scanned items.",
+  "verifyProductTitle": "Verify Product Authenticity",
+  "verifyProductMessage": "Select the product image to check its details.",
+  "selectImageToVerifyButton": "Select Product Image to Verify",
+  "authenticProductTitle": "✅ Authentic Product",
+  "counterfeitProductTitle": "❌ Counterfeited Product!",
+  "counterfeitProductDetails": "This product's image does not contain a valid hash or the hash is not on the blockchain.",
+  "verificationErrorTitle": "Verification Error",
+  "productIDLabel": "Product ID",
+  "expiryLabel": "Expiry Date",
+  "blockchainHashLabel": "Blockchain Hash",
+  "saveProductButton": "Save to My Products",
+  "verifyAnotherButton": "Verify Another Product",
+  "saveProductSuccess": "saved to your products!",
+  "saveProductFailure": "Failed to save product",
+  "tryAgainButton": "Try Again",
+  "myProductsPageTitle": "My Products",
+  "noProductsMessage": "You have not scanned any products yet.",
+  "expiredOn": "Expired on: {date}",
+  "@@expiredOn": {
+    "placeholders": {
+      "date": {}
+    }
+  },
+  "expiresOn": "Expires: {date}",
+  "@@expiresOn": {
+    "placeholders": {
+      "date": {}
+    }
+  },
+  "deleteButton": "Delete",
+  "productDeleted": "{productName} has been deleted.",
+  "@@productDeleted": {
+    "placeholders": {
+      "productName": {}
+    }
+  },
+  "productExpiringSoon": "Product Expiring Soon",
+  "expiryNotificationBody": "Your product \"{productName}\" will expire on {expiryDate}.",
+  "@@expiryNotificationBody": {
+    "placeholders": {
+      "productName": {},
+      "expiryDate": {}
+    }
+  },
+  "failedToFetchDetails": "Product found, but failed to fetch details.",
+  "noWatermarkFound": "No watermark found or image is too damaged.",
+  "@@noWatermarkFound": {
+    "description": "Error message when a watermark cannot be decoded."
+  },
+  "watermarkInvalid": "Watermark is invalid or product not found on blockchain.",
+  "@@watermarkInvalid": {
+    "description": "Error message for a valid but unverified watermark."
+  },
+  "reportCounterfeitButton": "Report Counterfeit",
+  "reportCounterfeitSubtitle": "Report a counterfeit or non-standard product",
+  "reportProductTitle": "Report Counterfeit Product",
+  "tellUsMore": "Tell Us More",
+  "tellUsMoreDetails": "Please provide details about why you are reporting this product. This helps us take appropriate action.",
+  "reportDetailsLabel": "Your Report Details",
+  "reportDetailsHint": "E.g., The packaging was damaged, the QR code was unreadable, the product looked fake, etc.",
+  "submitReportButton": "Submit Report",
+  "submittingReportButton": "Submitting...",
+  "cancelButton": "Cancel",
+  "reportSuccess": "Report submitted successfully.",
+  "reportFailure": "Failed to submit report.",
+  "mustLoginToReport": "You must be logged in to report a product.",
+  "reportProductPageTitle": "Report Product",
+  "productNameLabel": "Product Name",
+  "batchNumberLabel": "Batch Number",
+  "qcStatusLabel": "QC Status",
+  "overallStatusLabel": "Overall Status"
+}
