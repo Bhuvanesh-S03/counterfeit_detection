@@ -1,0 +1,26 @@
+/* General App Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Arial', sans-serif;
+}
+
+body {
+  background: #1c1c1c;
+  color: #ecf0f1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  /* Adjust padding to prevent content from being hidden by the fixed header */
+  padding: 90px 20px 40px;
+}
+
+.App {
+  width: 100%;
+  max-width: 1200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
