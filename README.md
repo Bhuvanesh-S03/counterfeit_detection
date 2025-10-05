@@ -255,15 +255,6 @@ Blockchain: Hash + CID traceability
 
 Firebase: Auth and notifications
 
-Author
-
-Bhuvanesh S
-📧 sbhuvaneshkalai@gmail.com
-
-🌐 GitHub
-
-🔗 LinkedIn
-
 License
 
 This project is released under the MIT License — free to use and modify with proper attribution.
